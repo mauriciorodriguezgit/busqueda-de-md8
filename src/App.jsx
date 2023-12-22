@@ -4,6 +4,7 @@ import "bootstrap/dist/css/bootstrap.min.css"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faSearch } from '@fortawesome/free-solid-svg-icons'
 
+
 import './App.css'
 
 function App() {
@@ -66,12 +67,7 @@ function App() {
             <tr className='table-primary'>
               <th >Codigo</th>
               <th>Descripcion</th>
-              <th>Telefono</th>
-              <th>Nombre de usuario</th>
-              <th>Correo</th>
-              <th>Sitio web</th>
-              <th>Vastago</th>
-              <th>Tubo</th>
+              <th>Vastago</th>              
             </tr>
           </thead>
           <tbody>

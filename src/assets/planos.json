@@ -1,0 +1,122 @@
+{
+    "productos": [
+        {
+            "codigo": 6010,
+            "descripcion": "D25 SE-RD-TTU",
+            "vastago": 15860
+        },
+        {
+            "codigo": 6030,
+            "descripcion": "D25 DE-TTU",
+            "vastago": 15860
+        },
+        {
+            "codigo": 6510,
+            "descripcion": "D25 SE-RD-TTS",
+            "vastago": 15860
+        }
+
+        ,
+        {
+            "codigo": 6520,
+            "descripcion": "D25 SE-RT-TTS",
+            "vastago": 16646
+        }
+
+        ,
+        {
+            "codigo": 2621,
+            "descripcion": "D25 SE-RD-TTU-IMAN",
+            "vastago": 15860
+        }
+
+        ,
+        {
+            "codigo": 2622,
+            "descripcion": "D25 SE-RT-TTU-IMAN",
+            "vastago": 16646
+        }
+
+        ,
+        {
+            "codigo": 2623,
+            "descripcion": "D25 DE-TTU-IMAN",
+            "vastago": 15860
+        }
+
+        ,
+        {
+            "codigo": 2671,
+            "descripcion": "D25 SE-RD-TTS-IMAN",
+            "vastago": 15860
+        }
+
+        ,
+        {
+            "codigo": 2672,
+            "descripcion": "D25 SE-RT-TTS-IMAN",
+            "vastago": 16646
+        }
+
+        ,
+        {
+            "codigo": 2674,
+            "descripcion": "SL-D25 DE-TTU-IMAN",
+            "vastago": 33327
+        }
+
+        ,
+        {
+            "codigo": 4621,
+            "descripcion": "SSL-D25 SE-RD-TTU-IMAN",
+            "vastago": 34692
+        }
+
+        ,
+        {
+            "codigo": 4622,
+            "descripcion": "SSL-D25 SE-RT-TTU-IMAN",
+            "vastago": 34695
+        }
+
+        ,
+        {
+            "codigo": 4623,
+            "descripcion": "SSL-D25 DE-TTU-IMAN",
+            "vastago": 33327
+        }
+
+        ,
+        {
+            "codigo": 4626,
+            "descripcion": "SSL-D25 DE-DA-TTU-IMAN",
+            "vastago": 34763
+        }
+
+        ,
+        {
+            "codigo": 4633,
+            "descripcion": "SSL-D25 DE-DV-IMAN",
+            "vastago": [34745, 34748]
+        }
+
+        ,
+        {
+            "codigo": 4636,
+            "descripcion": "SSL-D25 DE-DV-DA-IMAN",
+            "vastago": [34766,34769]
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+    ]
+}
