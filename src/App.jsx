@@ -6,6 +6,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faSearch } from '@fortawesome/free-solid-svg-icons';
 
 import './App.css';
+import Header from './assets/header';
 
 function App() {
   const [usuarios, setUsuarios] = useState([]);
@@ -46,43 +47,45 @@ function App() {
   }, []);
 
   return (
-    <div className="App">
-      {/* Buscador */}
-      <div className='containerInput'>
-        <input
-          className='form-control inputBuscar'
-          value={busqueda}
-          placeholder='Búsqueda por código o descripción'
-          onChange={handleChange}
-        />
-        <button className='btn btn-success' onClick={handleBuscarClick}>
-          <FontAwesomeIcon icon={faSearch} />
-        </button>
-      </div>
 
-      <div className='table-sm table-responsive'>
-        <table className='table'>
-          <thead>
-            <tr className='table-primary'>
-              <th>Código</th>
-              <th>Descripción</th>
-              <th>Vástago 1</th>
-              <th>Vástago 2</th>
-            </tr>
-          </thead>
-          <tbody>
-            {usuarios.map((usuario) => (
-              <tr key={usuario.id}>
-                <td className='table-info'>{usuario.codigo}</td>
-                <td>{usuario.descripcion}</td>
-                <td>{Array.isArray(usuario.vastago) ? usuario.vastago[0] : usuario.vastago}</td>
-                <td>{Array.isArray(usuario.vastago) && usuario.vastago.length > 1 ? usuario.vastago[1] : null}</td>
+    <>
+<Header/>
+      <div className="App">
+        {/* Buscador */}
+        <div className='containerInput'>
+          <input
+            className='form-control inputBuscar'
+            value={busqueda}
+            placeholder='Búsqueda por código o descripción'
+            onChange={handleChange}
+          />
+         
+        </div>
+
+        <div className='table-sm table-responsive'>
+          <table className='table'>
+            <thead>
+              <tr className='table-primary'>
+                <th>Código</th>
+                <th>Descripción</th>
+                <th>Vástago 1</th>
+                <th>Vástago 2</th>
               </tr>
-            ))}
-          </tbody>
-        </table>
+            </thead>
+            <tbody>
+              {usuarios.map((usuario) => (
+                <tr key={usuario.id}>
+                  <td className='table-info'>{usuario.codigo}</td>
+                  <td>{usuario.descripcion}</td>
+                  <td>{Array.isArray(usuario.vastago) ? usuario.vastago[0] : usuario.vastago}</td>
+                  <td>{Array.isArray(usuario.vastago) && usuario.vastago.length > 1 ? usuario.vastago[1] : null}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
       </div>
-    </div>
+    </>
   );
 }
 
