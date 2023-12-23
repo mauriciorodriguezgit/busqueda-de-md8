@@ -106,6 +106,36 @@
             "descripcion": "SSL-D25 DE-DV-DA-IMAN",
             "vastago": [34766,34769]
         }
+        ,
+        {
+            "codigo": 4644,
+            "descripcion": "SSL-D25 DE-DV-HUECO-IMAN",
+            "vastago": [34791,34792]
+        }
+        ,
+        {
+            "codigo": 4645,
+            "descripcion": "SSL-D25 DE-DV-DA-HUECO-IMAN",
+            "vastago": [34793,34794]
+        }  
+        ,
+        {
+            "codigo": 4671,
+            "descripcion": "SSL-D25 SE-RD-TTS-IMAN",
+            "vastago": 34692
+        }  
+        ,
+        {
+            "codigo": 4672,
+            "descripcion": "SSL-D25 SE-RT-TTS-IMAN",
+            "vastago": 34695
+        }
+        ,
+        {
+            "codigo": 4673,
+            "descripcion": "SSL-D25 DE-TTS-IMAN",
+            "vastago": 33327
+        } 
 
 
 

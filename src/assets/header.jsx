@@ -3,7 +3,7 @@ import React from 'react'
 const Header = () => {
     return (
         <header>
-            <h1 className='p-3 mb-2 bg-secondary text-white text-center'>MDs 8{" "}
+            <h1 className='text-focus-in p-3 mb-2 bg-secondary text-white text-center'>MDs 8{" "}
                 
             </h1>
 
