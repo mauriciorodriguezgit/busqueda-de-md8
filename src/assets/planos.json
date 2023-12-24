@@ -135,15 +135,105 @@
             "codigo": 4673,
             "descripcion": "SSL-D25 DE-TTS-IMAN",
             "vastago": 33327
+        }   ,
+        {
+            "codigo":5010 ,
+            "descripcion": "SSL-D20 SE-RD-TTU",
+            "vastago": 15859
+        }   ,
+        {
+            "codigo": 5020,
+            "descripcion": "D20 SE-RT-TTU",
+            "vastago": 16645
+        }   ,
+        {
+            "codigo": 5510,
+            "descripcion": "D20 SE-RD-TTS",
+            "vastago": 15859
+        }   ,
+        {
+            "codigo": 5530,
+            "descripcion": "D20 DE-TTS",
+            "vastago": 15859
+        }   ,
+        {
+            "codigo": 2521,
+            "descripcion": "D20 SE-RD-TTU-IMAN",
+            "vastago": 15859
         } 
-
-
-
-
-
-
-
-
+        ,
+        {
+            "codigo": 2522,
+            "descripcion": "D20 SE-RT-TTU-IMAN",
+            "vastago": 16645
+        } 
+        ,
+        {
+            "codigo": 2571,
+            "descripcion": "D20 SE-RD-TTU-IMAN",
+            "vastago": 15859
+        } 
+        ,
+        {
+            "codigo": 2574,
+            "descripcion": "SL D20 DE-TTU-IMAN",
+            "vastago": 33326
+        } 
+        ,
+        {
+            "codigo": 4521,
+            "descripcion": "SSL D20 SE-RD-TTU-IMAN",
+            "vastago": 34691
+        } 
+        ,
+        {
+            "codigo": 4522,
+            "descripcion": "SSL D20 SE-RT-TTU-IMAN",
+            "vastago": 34694
+        } 
+        ,
+        {
+            "codigo": 4523,
+            "descripcion": "SSL D20 DE-TTU-IMAN",
+            "vastago": 33326
+        } 
+        ,
+        {
+            "codigo": 4526,
+            "descripcion": "SSL D20 DE-DA-TTU-IMAN",
+            "vastago": 34762
+        } 
+        ,
+        {
+            "codigo": 4533,
+            "descripcion": "SSL D20 DE-DV-IMAN",
+            "vastago": [34744,34747]
+        } 
+        ,
+        {
+            "codigo": 4536,
+            "descripcion": "SSL D20 DE-DV-DA-TTU-IMAN",
+            "vastago":[34768,34765]
+        } 
+        ,
+        {
+            "codigo": 4571,
+            "descripcion": "SSL D20 SE-RD-TTS-IMAN",
+            "vastago": 34691
+        } 
+        ,
+        {
+            "codigo": 4572,
+            "descripcion": "SSL D20 SE-RT-TTS-IMAN",
+            "vastago": 34694
+        } 
+        ,
+        {
+            "codigo": 4573,
+            "descripcion": "SSL D20 DE-TTS-IMAN",
+            "vastago": 33326
+        } 
+        
 
 
 
