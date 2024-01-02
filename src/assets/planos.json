@@ -233,6 +233,78 @@
             "descripcion": "SSL D20 DE-TTS-IMAN",
             "vastago": 33326
         } 
+        ,
+        {
+            "codigo": 1010,
+            "descripcion": "D8 SE-RD-TTU",
+            "vastago": 15856
+        } 
+        ,
+        {
+            "codigo": 1020,
+            "descripcion": "D20 SE-RT-TTU",
+            "vastago": 21714
+        } 
+        ,
+        {
+            "codigo": 1030,
+            "descripcion": "D8 DE-TTU",
+            "vastago": 15856
+        } 
+        ,
+        {
+            "codigo": 1510,
+            "descripcion": "D8-SE-RD-TTS",
+            "vastago": 15856
+        } 
+        ,
+        {
+            "codigo": 1520,
+            "descripcion": "D8 SE-RT-TTS",
+            "vastago": 21714
+        } 
+        ,
+        {
+            "codigo": 1530,
+            "descripcion": "D8 DE-TTS",
+            "vastago": 15856
+        } 
+        ,
+        {
+            "codigo": 2121,
+            "descripcion": "D8 SE-RD-TTU-IMAN",
+            "vastago": 15856
+        } 
+        ,
+        {
+            "codigo": 2122,
+            "descripcion": "D8 SE-RT-TTU-IMAN",
+            "vastago": 21714
+        } 
+        ,
+        {
+            "codigo": 2123,
+            "descripcion": "D8 DE-TTU-IMAN",
+            "vastago": 15856
+        } 
+        ,
+        {
+            "codigo": 2171,
+            "descripcion": "D8 SE-RD-TTS-IMAN",
+            "vastago": 15856
+        } 
+        ,
+        {
+            "codigo": 2172,
+            "descripcion": "D8 SE-RT-TTS-IMAN",
+            "vastago": 21714
+        } 
+        ,
+        {
+            "codigo": 2173,
+            "descripcion": "D8 DE-TTS-IMAN",
+            "vastago": 15856
+        } 
         
 
 
