@@ -236,7 +236,7 @@
         ,
         {
             "codigo": 1010,
-            "descripcion": "D8 SE-RD-TTU",
+            "descripcion": "D20 SE-RD-TTU",
             "vastago": 15856
         } 
         ,
@@ -244,7 +244,103 @@
             "codigo": 1020,
             "descripcion": "D20 SE-RT-TTU",
             "vastago": 21714
-        } 
+        }
+        ,
+            {
+            "codigo": 4010,
+            "descripcion": " D16 SE-RD-TTU",
+            "vastago": 15858
+        },
+        {
+            "codigo": 4510,
+            "descripcion": "D16 SE-RD-TTS",
+            "vastago": 15858
+        },
+        {
+            "codigo": 4520,
+            "descripcion": "D16 SE-RT-TTS",
+            "vastago": 16644
+        },
+        {
+            "codigo": 4530,
+            "descripcion": "D16 DE-TTS",
+            "vastago": 15858
+        },
+        {
+            "codigo": 2421,
+            "descripcion": "D16 SE-RD-TTU-IMAN",
+            "vastago": 15858
+        },
+        {
+            "codigo": 2426,
+            "descripcion": "D16-DE-DA-TTU-IMAN",
+            "vastago": 16479
+        },
+        {
+            "codigo": 2433,
+            "descripcion": "D16 DE-DV-IMAN",
+            "vastago": 16479
+        },
+        {
+            "codigo": 2436,
+            "descripcion": "D16 DE-DV-DA-IMAN",
+            "vastago": 16479
+        },
+        {
+            "codigo": 2471,
+            "descripcion": "D16 SE-RD-TTS-IMAN",
+            "vastago": 15858
+        },
+        {
+            "codigo": 2474,
+            "descripcion": "SL D16 DE-TTU-IMAN",
+            "vastago": 33325
+        },
+        {
+            "codigo": 4421,
+            "descripcion": "SSL D16 SE-RD-TTU-IMAN",
+            "vastago": 34690
+        },
+        {
+            "codigo": 4422,
+            "descripcion": "SSL D16 SE-RT-TTU-IMAN",
+            "vastago": 34693
+        },
+        {
+            "codigo": 4423,
+            "descripcion": "SSL D16 DE-TTU-IMAN",
+            "vastago": 33325
+        },
+        {
+            "codigo": 4426,
+            "descripcion": "SSL D16 DE-DA-TTU-IMAN",
+            "vastago": 34761
+        },
+        {
+            "codigo": 4433,
+            "descripcion": "SSL D16 DE-DV-IMAN",
+            "vastago": [34743,34746]
+        },
+        {
+            "codigo": 4436,
+            "descripcion": "SSL D16 DE-DV-DA-IMAN",
+            "vastago": [34764,34767]
+        },
+        {
+            "codigo": 4471,
+            "descripcion": "SSL D16 SE-RD-TTS-IMAN",
+            "vastago": 34690
+        },
+        {
+            "codigo": 4472,
+            "descripcion": "SSL D16 SE-RT-TTS-IMAN",
+            "vastago": 34693
+        },
+        {
+            "codigo": 4473,
+            "descripcion": "SSL D16 DE-TTS-IMAN",
+            "vastago": 33325
+        }
         ,
         {
             "codigo": 1030,
