@@ -400,7 +400,92 @@
             "codigo": 2173,
             "descripcion": "D8 DE-TTS-IMAN",
             "vastago": 15856
-        } 
+        } ,
+        {
+            "codigo": 3010,
+            "descripcion": "D12 SE-RD-TTU",
+            "vastago": 15857
+        },
+        {
+            "codigo": 3020,
+            "descripcion": "D12 SE-RT-TTU",
+            "vastago": 16643
+        },
+        {
+            "codigo": 3030,
+            "descripcion": "D12 DE-TTU",
+            "vastago": 15857
+        },
+        {
+            "codigo": 3510,
+            "descripcion": "D12 SE-RD-TTS",
+            "vastago": 15857
+        },
+        {
+            "codigo": 3520,
+            "descripcion": "D12 SE-RT-TTS",
+            "vastago": 16643
+        },
+        {
+            "codigo": 3530,
+            "descripcion": "D12 DE-TTS",
+            "vastago": 15857
+        },
+        {
+            "codigo": 2321,
+            "descripcion": "D12 SE-RD-TTU-IMAN",
+            "vastago": 15857
+        },
+        {
+            "codigo": 2322,
+            "descripcion": "D12 SE-RT-TTU-IMAN",
+            "vastago": 16643
+        },
+        {
+            "codigo": 2323,
+            "descripcion": "D12 DE-TTU-IMAN",
+            "vastago": 15857
+        },
+        {
+            "codigo": 2371,
+            "descripcion": "D12 SE-RD-TTS-IMAN",
+            "vastago": 15857
+        },
+        {
+            "codigo": 2372,
+            "descripcion": "D12 SE-RT-TTS-IMAN",
+            "vastago": 16643
+        },
+        {
+            "codigo": 2373,
+            "descripcion": "D12 DE-TTU-IMAN",
+            "vastago": 15857
+        },
+        {
+            "codigo": 4321,
+            "descripcion": "SSL D12 SE-RD-TTU-IMAN",
+            "vastago": 15857
+        },
+        {
+            "codigo": 4322,
+            "descripcion": "SSL D12 SE-RT-TTU-IMAN",
+            "vastago": 16643
+        },
+        {
+            "codigo": 4323,
+            "descripcion": "SSL D12 DE-TTU-IMAN",
+            "vastago": 15857
+        },
+        {
+            "codigo": 4372,
+            "descripcion": "SSL D12 SE-RT-TTS-IMAN",
+            "vastago": 16643
+        },
+        {
+            "codigo": 4373,
+            "descripcion": "SSL D12 DE-TTS-IMAN",
+            "vastago": 15857
+        }
         
 
 
