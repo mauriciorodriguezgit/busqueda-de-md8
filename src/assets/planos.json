@@ -486,6 +486,98 @@
             "descripcion": "SSL D12 DE-TTS-IMAN",
             "vastago": 15857
         }
+        ,
+        {
+            "codigo": 2010,
+            "descripcion": "D10 SE-RD-TTU",
+            "vastago": 15856
+        }
+        ,
+        {
+            "codigo": 2020,
+            "descripcion": "D10 SE-RD-TTU",
+            "vastago": 21714
+        }
+        
+        ,
+        {
+            "codigo": 2030,
+            "descripcion": "D10 SE-TTU",
+            "vastago": 15856
+        }
+        
+        ,
+        {
+            "codigo": 2510,
+            "descripcion": "D10 SE-RD-TTS",
+            "vastago": 15856
+        }
+        
+        ,
+        {
+            "codigo": 2520,
+            "descripcion": "D10 SE-RT-TTS",
+            "vastago": 21714
+        }
+        
+        ,
+        {
+            "codigo": 2530,
+            "descripcion": "D10 DE-TTS",
+            "vastago": 15856
+        }
+        
+        ,
+        {
+            "codigo": 2221,
+            "descripcion": "D10 SE-RD-TTU-IMAN",
+            "vastago": 15856
+        }
+        
+        ,
+        {
+            "codigo": 2222,
+            "descripcion": "D10 SE-RT-TTU-IMAN",
+            "vastago": 21714
+        }
+        
+        ,
+        {
+            "codigo": 2223,
+            "descripcion": "D10 DE-TTU-IMAN",
+            "vastago": 15856
+        }
+        
+        ,
+        {
+            "codigo": 2271,
+            "descripcion": "D10 SE-RD-TTS-IMAN",
+            "vastago": 15856
+        }
+        ,
+        {
+            "codigo": 2272,
+            "descripcion": "D10 SE-RT-TTS-IMAN",
+            "vastago": 21714
+        }
+        
+        ,
+        {
+            "codigo": 2273,
+            "descripcion": "D10 DE-TTS-IMAN",
+            "vastago": 15856
+        }
+        
+        ,
+        {
+            "codigo": 4223,
+            "descripcion": "SSL D10-DE-TTU-IMAN",
+            "vastago": 15856
+        }
+        
+
+        
+
         
 
 
