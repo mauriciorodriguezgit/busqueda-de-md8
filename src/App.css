@@ -1,7 +1,22 @@
+body {
+  transition: background-color 0.3s ease;
+}
+
+.light {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.dark {
+  background-color: #121212;
+  color: #ffffff;
+}
+
 .App {
   text-align: center;
   padding: 40px 30px;
   max-width: 100% !important;
+  background-color:var(--background-color)
 }
 
 .App-logo {
