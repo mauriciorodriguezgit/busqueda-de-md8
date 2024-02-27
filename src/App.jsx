@@ -65,7 +65,7 @@ function App() {
 
     return (
 
-      <div className='appt'>
+      <div className={`appt ${darkMode ? 'dark' : 'light'}`}>
         <Header darkMode={darkMode} toggleDarkMode={toggleDarkMode} />
         <div className="App">
           {/* Buscador */}
@@ -80,9 +80,9 @@ function App() {
           </div>
 
           <div className='table-sm table-responsive  '>
-            <table className='table'>
+            <table className={`table ${darkMode ? 'table-dark' : 'table-light'}`}>
               <thead>
-                <tr className='table'>
+                <tr className={`table ${darkMode ? 'table-dark' : 'table-light'}`}>
                   <th>Código</th>
                   <th>Descripción</th>
                   <th>Vástago 1</th>
@@ -92,7 +92,7 @@ function App() {
               <tbody>
                 {usuarios.map((usuario) => (
                   <tr key={usuario.id}>
-                    <td className='table-light'>{usuario.codigo}</td>
+                    <td className={`table-light ${darkMode ? 'table-dark' : 'table-light'}`}>{usuario.codigo}</td>
                     <td>{usuario.descripcion}</td>
                     <td>{Array.isArray(usuario.vastago) ? usuario.vastago[0] : usuario.vastago}</td>
                     <td>{Array.isArray(usuario.vastago) && usuario.vastago.length > 1 ? usuario.vastago[1] : null}</td>
